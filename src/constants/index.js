@@ -23,6 +23,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    sfcc
   } from "../assets";
   
   export const navLinks = [
@@ -56,6 +57,10 @@ import {
     {
       title: "Content Creator",
       icon: creator,
+    },
+    {
+      title: "SalesForce Developer",
+      icon: sfcc,
     },
   ];
   
