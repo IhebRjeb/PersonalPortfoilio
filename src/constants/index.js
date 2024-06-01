@@ -55,7 +55,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "Independent Filmmaker",
       icon: creator,
     },
     {
